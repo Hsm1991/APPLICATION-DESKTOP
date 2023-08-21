@@ -1,0 +1,4 @@
+etudiant1 5
+etudiant2 2
+etudiant3 4
+etudiant3 3

@@ -1,0 +1,7 @@
+120120 111 Animal 228 normal 2021-12-12 2
+13490257 lait Animal 300 froid 2022-3-31 4
+123123 lllll Vegital 311 normal 2022-3-31 3
+10000 1111 Poissons 17 normal 2021-12-31 3
+130130 1111 Animal 228 normal 2021-12-28 3
+00000 101010 Poissons 22 froid 2021-12-27 2
+1999 101010 Vegital 1 normal 2021-12-27 2
